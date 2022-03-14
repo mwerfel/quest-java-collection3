@@ -32,4 +32,5 @@ public class Hero implements Comparable<Hero> {
     public void setAge(int age) {
         this.age = age;
     }
+
 }
